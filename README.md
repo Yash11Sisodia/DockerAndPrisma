@@ -1,3 +1,5 @@
+Watch to see how to run : https://www.youtube.com/watch?v=L9H-rrAGeUg
+
 1st RUN :
 docker-compose build
 
